@@ -1,18 +1,6 @@
 # graph-notebook
 Study as hard as you can, don't be too tired
-<style>
-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-table, th, td {
-    border: 1px solid black;
-}
-th, td {
-    padding: 8px;
-    text-align: left;
-}
-</style>
+
 | 序号 | 标题    |   笔记链接 |           概括    |  论文链接  | 代码链接 |
 | :--: | :-----------------:  | :-------------:      | :------------------------: | :-------: |:-------: |
 |1|ultragcn| [知乎](https://zhuanlan.zhihu.com/p/720972838) |一种用约束损失嵌入学习超多层gcn信息传播结果的方法，特点是效率高，amazonbooks上准确率提升明显。|https://arxiv.org/pdf/2110.15114 |[代码链接](https://github.com/kuisu-GDUT/UltraGCN)|
