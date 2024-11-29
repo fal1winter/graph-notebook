@@ -11,6 +11,6 @@ Study as hard as you can, don't be too tired
 |6|DiffKG: Knowledge Graph Diffusion Model for Recommendation|[知乎](https://zhuanlan.zhihu.com/p/4200921987)|一种通过构建知识图并在知识图上进行去噪和gat消息传递并在去噪前后进行对比学习以优化item嵌入的方法|[文](https://arxiv.org/pdf/2312.16890)|[代码链接](https://github.com/HKUDS/DiffKG.)|
 |7|Graph Collaborative Signals Denoising and Augmentation for Recommendation|[知乎](https://zhuanlan.zhihu.com/p/5611913180)|一种通过预训练在图上添加相似度高的边（包括uu，ii）以进行边填充和删减去噪的方法，预训练和正常训练均采用lightgcn的消息传递方式|pdf上传于仓库|[代码链接](https://github.com/zfan20/GraphDA)|
 |8|GRAPH-LESS NEURAL NETWORKS: TEACHING OLD MLPS NEW TRICKS VIA DISTILLATION|     [知乎](https://zhuanlan.zhihu.com/p/8254578841)      |          |pdf上传于仓库|[代码链接](https://github.com/ snap-research/graphless-neural-networks)                    |
-|9|AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation|       [知乎](https://zhuanlan.zhihu.com/p/8266374468)     |        |pdf上传于仓库           |[代码链接]( https://github.com/WeigangLu/AdaGMLPKDD24     )                   |
+|9|AdaGMLP: AdaBoosting GNN-to-MLP Knowledge Distillation|       [知乎](https://zhuanlan.zhihu.com/p/8266374468)     |        |pdf上传于仓库           |[代码链接](https://github.com/WeigangLu/AdaGMLPKDD24)                   |
 ||||fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff|||
 |        |           |           |[知乎](    )          |[文](     )            |[代码链接](     )                    |
